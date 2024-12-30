@@ -3,6 +3,7 @@ Project Team 4: Election Results Analysis
 
 # Project Brief
 Election results are driven by the electoral college every four years, but what if they weren’t?  What if they were driven by district votes instead? Group 4 aims to visualize how the outcomes of our elections may have changed, should winning candidates be determined on the district vote instead of the electoral college.
+
 The Gang of 00100 will visualize the United States map broken down by congressional districts, each of which show voting results, per party, for the 2012, 2016, and 2020 elections.  From there, the team expects to highlight the difference between the actual election results in a defined year, vs whether the outcome would be different if district votes won all.
 
 # Sourced Data
@@ -15,24 +16,24 @@ The Gang of 00100 will visualize the United States map broken down by congressio
 •	Our scope of data was narrowed a 3rd time after looking at the data and realizing the most complete and quality data across the board would be for the years 2012, 2016, and 2020.
 
 # User Driven Interactions:
-•	Clickable Table of Contents
-•	Year drop down
-•	Clickable map
-•	Data pop ups
+1. Clickable Table of Contents
+2. Year drop down
+3. Clickable map
+4. Data pop ups
 
 # Webpages to Include
-Page 1:	Homepage – project brief + URLs to various views
-Page 2: Chart of Election Result dating back to 1856
-Page 3: Slider View
-Page 4: Map View
+1. Page 1:	Homepage – project brief + URLs to various views
+2. Page 2: Chart of Election Result dating back to 1856
+3. Page 3: Slider View
+4. Page 4: Map View
 
 # Alternate Considerations:
-•	Dave’s DRA Git files [2010 & 2020 election (Harvard data) and Census Data] - https://github.com/dra2020/vtd_data/tree/master 
-•	Census Data: GeoID mapping to County 
-•	Presidential Precinct Map 2020 - https://github.com/TheUpshot/presidential-precinct-map-2020 
-•	GeoJSON Coordinates for the district maps:
-  o	GeoJSON files across US - https://data-usdot.opendata.arcgis.com/datasets/usdot::congressional-districts/explore?location=0.131172%2C0.314298%2C1.77&showTable=true 
-  o	Dave's DRA coordinates/web interface - https://medium.com/dra-2020/official-maps-90f43c695b4
-  o	Census TIGER/Line Shapefiles – most accurate and complete for years needed
+1. Dave’s DRA Git files [2010 & 2020 election (Harvard data) and Census Data] - https://github.com/dra2020/vtd_data/tree/master
+2. Census Data: GeoID mapping to County
+3. Presidential Precinct Map 2020 - https://github.com/TheUpshot/presidential-precinct-map-2020
+4. GeoJSON Coordinates for the district maps:
+   a. GeoJSON files across US - https://data-usdot.opendata.arcgis.com/datasets/usdot::congressional-districts/explore?location=0.131172%2C0.314298%2C1.77&showTable=true
+   b. Dave's DRA coordinates/web interface - https://medium.com/dra-2020/official-maps-90f43c695b4
+   c. Census TIGER/Line Shapefiles – most accurate and complete for years needed
     https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-	f	ile.2024.html#list-tab-790442341
     https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2024.html#list-tab-790442341
