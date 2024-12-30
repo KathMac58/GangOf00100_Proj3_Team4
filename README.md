@@ -11,9 +11,9 @@ The Gang of 00100 will visualize the United States map broken down by congressio
 2.	Census Data: [data uploaded to OneDrive: Project 3]
 
 # Data Analysis
-•	Narrowed scope to elections post 1952 since the quality of the vote data, by district (including county split), isn’t as limited.
-•	Scope of years was further narrowed when it was found that Census county boundaries were publicly provided from 2007-2023. To coincide with elections, we determined to focus on 2008, 2012, 2016, and 2020 data.
-•	Our scope of data was narrowed a 3rd time after looking at the data and realizing the most complete and quality data across the board would be for the years 2012, 2016, and 2020.
+1. Narrowed scope to elections post 1952 since the quality of the vote data, by district (including county split), isn’t as limited.
+2. Scope of years was further narrowed when it was found that Census county boundaries were publicly provided from 2007-2023. To coincide with elections, we determined to focus on 2008, 2012, 2016, and 2020 data.
+3. Our scope of data was narrowed a 3rd time after looking at the data and realizing the most complete and quality data across the board would be for the years 2012, 2016, and 2020.
 
 # User Driven Interactions:
 1. Clickable Table of Contents
@@ -32,8 +32,11 @@ The Gang of 00100 will visualize the United States map broken down by congressio
 2. Census Data: GeoID mapping to County
 3. Presidential Precinct Map 2020 - https://github.com/TheUpshot/presidential-precinct-map-2020
 4. GeoJSON Coordinates for the district maps:
+   
    a. GeoJSON files across US - https://data-usdot.opendata.arcgis.com/datasets/usdot::congressional-districts/explore?location=0.131172%2C0.314298%2C1.77&showTable=true
+   
    b. Dave's DRA coordinates/web interface - https://medium.com/dra-2020/official-maps-90f43c695b4
+   
    c. Census TIGER/Line Shapefiles – most accurate and complete for years needed
     https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-	f	ile.2024.html#list-tab-790442341
     https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2024.html#list-tab-790442341
